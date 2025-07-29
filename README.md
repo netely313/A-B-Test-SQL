@@ -157,12 +157,12 @@ ORDER BY
 
 The analysis includes several key visualizations:
 - Figure 1: Average Sales by Promotion Type
-![alt text](image.png)
+![alt text](Averege_Sales.png)
 - Figure 2: Statistical comparison between Promotion 1 and Promotion 2
-![alt text](image-1.png)
+![alt text](Prom1_Prom2.png)
 - Figure 3: Statistical comparison between Promotion 2 and Promotion 3
-![alt text](image-2.png)
+![alt text](Prom2_Prom3.png)
 - Figure 4: Statistical comparison between Promotion 1 and Promotion 3
-![alt text](image-3.png)
+![alt text](Prom1_Prom3.png)
 
 ---
